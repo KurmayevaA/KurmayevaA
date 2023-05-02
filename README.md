@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://usagif.com/wp-content/uploads/cat-typing-8.gif"/>
+  <img src="https://tenor.com/bGR24.gif"/>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/alexandra-kurmayeva-b78845244/">
