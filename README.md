@@ -19,6 +19,8 @@
 <img src="https://komarev.com/ghpvc/?username=KurmayevaA&style=flat-square&color=blue" alt=""/>
 </div>
 
+---
+
 ### :woman_technologist: A few words about me:
 + I am from Saint-Petersburg <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">;
 +  Student of Vadim Ksendzov's QA-courses :muscle:;
@@ -40,3 +42,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" **alt="vscode" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" **alt="Jira" width="40" height="40"/>
 </div>
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KurmayevaA&theme=dark&background=000000)](https://git.io/streak-stats)
