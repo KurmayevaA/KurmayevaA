@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://tenor.com/bGR24.gif"/>
+  <img src="https://tenor.com/view/hello-hi-happy-fun-funny-gif-16461792"/>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/alexandra-kurmayeva-b78845244/">
